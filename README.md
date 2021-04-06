@@ -1,4 +1,5 @@
-# Matplotlib_Beginners
+**URL:** [akdiaz.xyz/matplotlib](http://akdiaz.xyz/matplotlib)
+
 Files used in my 'Matplotlib for Beginners' course.
 
 Click below to open the notebook.
